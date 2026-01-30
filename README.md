@@ -36,6 +36,34 @@ The project demonstrates core PHP development skills and understanding of MVC-li
 
 ---
 
+## 📷 Screenshots
+
+### Homepage
+![Homepage](screenshots/home.png)
+
+### Product Details
+![Product Details](screenshots/view_product.png)
+
+### Add To Card
+![Add To Card](screenshots/add_to_card.png)
+
+### Admin Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### List Categories
+![List Categories](screenshots/list_category.png)
+
+### List Produts
+![List Produts](screenshots/list_product.png)
+
+### List Commands
+![List Commands](screenshots/list_command.png)
+
+### Detail List Commands
+![Detail List Commands](screenshots/detail_list_command.png)
+
+---
+
 ## ⚙️ Installation & Usage
 
 1. Clone the repository:  
